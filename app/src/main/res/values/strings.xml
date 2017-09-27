@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Facts</string>
+    <string name="developer_name">Developer: Harsha pulikollu</string>
+    <string name="bio">New to android development</string>
+</resources>
